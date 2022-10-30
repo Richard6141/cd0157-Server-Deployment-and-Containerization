@@ -1,5 +1,10 @@
 # Deploying a Flask API
 
+##Contenu de .env_file
+
+`JWT_SECRET='myjwtsecret'
+LOG_LEVEL=DEBUG`
+
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
 In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
